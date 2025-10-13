@@ -1,0 +1,38 @@
+# Compiled source files
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.dll
+*.dylib
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Debug and profiling files
+*.dSYM/
+*.su
+*.gcno
+*.gcda
+*.gcov
+*.prof
+*.profraw
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# IDE / editor specific files
+.vscode/
+*.swp
+*~
+*.log
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
